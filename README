@@ -1,1 +1,1 @@
-Whether you're using xquery 2 or 3 (or have EAD DTD or namespaced EAD files), 1 of these 4 files can be used to extract CPF name information from your EAD files, allowing them to be uploaded easily to a service like Google Refine.
+Whether you're using xquery 1 or 3 (or have EAD DTD or namespaced EAD files), 1 of these 4 files can be used to extract CPF name information from your EAD files, allowing them to be uploaded easily to a service like Google Refine.
